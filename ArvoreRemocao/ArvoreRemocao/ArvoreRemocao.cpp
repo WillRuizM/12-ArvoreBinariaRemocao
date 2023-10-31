@@ -249,7 +249,7 @@ void removerElementoArvore(NO* no, int valor) {
 
 	// caso 1: sem filhos	
 	
-
+	m
 	// caso 2: um filho	
 	
 
